@@ -1,1 +1,1 @@
-📽️ [Home Videosunu İzle](./public/home.mp4)
+📽️ [Home sayfası](./public/home-page.gif)
