@@ -1,1 +1,1 @@
-[Home](/public/home.mp4)
+📽️ [Home Videosunu İzle](./public/home.mp4)
