@@ -201,7 +201,7 @@ const FooterBottom = () => {
             © Copyright 1998 - 2024 D-MARKET Elektronik Hizmetler Tic. A.Ş. Her
             Hakkı Saklıdır.
             <a href="#" className="ml-2 text-[#B4D4FF]">
-              Hepsiburada.com
+              Herkesşurada.com
             </a>
           </div>
           <div className="flex items-center space-x-4 ">
