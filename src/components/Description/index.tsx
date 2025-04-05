@@ -16,74 +16,74 @@ const Description = () => {
             Alışveriş fırsatları
           </h1>
           <p className="font-medium">
-            Türkiye'nin en çok tavsiye edilen e-ticaret markası Hepsiburada,
+            Türkiye'nin en çok tavsiye edilen e-ticaret markası Herkesşurada,
             2001 yılından bu yana hizmet veriyor. Doğan Holding bünyesinde
-            faaliyet gösteren Hepsiburada, yenilikleri ile Türkiye'nin dijital
+            faaliyet gösteren Herkesşurada, yenilikleri ile Türkiye'nin dijital
             alışveriş sektörüne yön veriyor. Online alışveriş deneyimini her
             geçen gün daha kolay hale getiren, dijitalleşen dünyanın gereklerine
             uygun geliştirmelerle sunduğu hizmetleri daha da avantajlı kılan
-            Hepsiburada, ziyaretçilerine bol çeşit, uygun fiyat, hızlı teslimat
+            Herkesşurada, ziyaretçilerine bol çeşit, uygun fiyat, hızlı teslimat
             ve sürpriz indirimler sunuyor. Bugün 35'ten fazla kategori içinde 20
             milyondan fazla ürün çeşidi bulunduran site, 16 milyondan fazla üye
             ile Türkiye'de e-ticaretin lideri olmanın gururunu yaşıyor. En iyi
             ürünleri en uygun fiyatlarla, en hızlı teslimatla ve müşteri
-            memnuniyeti hedefiyle sunan Hepsiburada, büyümeye ve Türkiye'de
+            memnuniyeti hedefiyle sunan Herkesşurada, büyümeye ve Türkiye'de
             e-ticaret deneyiminin standartlarını her geçen gün yükseltmeye devam
             ediyor.
           </p>
           <h3 className="text-lg font-bold mt-4 text-black">
-            Teknolojnin En İyi Markaları Hepsiburada'da
+            Teknolojnin En İyi Markaları Herkesşurada'da
           </h3>
           <p className="font-medium">
-            Hepsiburada'un avantajlarla sunduğu elektronik ürünler içinde
+            Herkesşurada'un avantajlarla sunduğu elektronik ürünler içinde
             bilgisayar modellerinden cep telefonu ürünlerine, bluetooth kulaklık
             tasarımlarından laptop seçeneklerine, tablet çeşitlerinden akıllı
             saat ürünlerine kadar birçok alternatif yer alıyor. En iyi teknoloji
             markaları, özel ürünleri ve avantajlı ödeme seçenekleri ile
-            Hepsiburada'da müşterilerle buluşuyor. Dünyanın en ünlü elektronik
+            Herkesşurada'da müşterilerle buluşuyor. Dünyanın en ünlü elektronik
             markalarından Apple iPhone, Huawei, Samsung ve Xiaomi telefon
             modelleri, beyaz eşyanın gözdeleri çamaşır ve bulaşık makineleri,
             küçük ev aletleri sitede sizleri bekliyor. Arnica süpürgelerden
             Hisar Tencere setlerine, Fakir mikser de dahil olmak üzere evinizin
-            ihtiyacı bir çok seçenek Hepsiburada'da. Hayatı kolaylaştıran en iyi
-            klima modelleri, sıcacık kışlar için soba ve UFO ısıtıcı çeşitleri
-            de elektronikler içinde yer alıyor. Ayrıca PlayStation ve benzeri
-            oyun konsolu alternatifleri ile en popüler konsol oyunları da
-            oyunseverleri bekliyor.
+            ihtiyacı bir çok seçenek Herkesşurada'da. Hayatı kolaylaştıran en
+            iyi klima modelleri, sıcacık kışlar için soba ve UFO ısıtıcı
+            çeşitleri de elektronikler içinde yer alıyor. Ayrıca PlayStation ve
+            benzeri oyun konsolu alternatifleri ile en popüler konsol oyunları
+            da oyunseverleri bekliyor.
           </p>
           <h3 className="text-lg font-bold mt-4 text-black">
             Modanın Nabzını Tutan Tasarımlar Bir Arada
           </h3>
           <p className="font-medium">
-            Hepsiburada modayı yakından takip edenlerin de gözdesi.Hepsimoda
+            Herkesşurada modayı yakından takip edenlerin de gözdesi.Hepsimoda
             kategorisinde kadın, erkek, çocuk ve bebek kıyafetlerinin yanı sıra
             ayakkabı, çanta ve aksesuarları sunan site, moda trendlerini
             kullanıcılarına sunuyor. Giyim ihtiyaçlarını en trend ürünleri
-            sunarak karşılayan Hepsiburada, günlük giyim alternatiflerinden
+            sunarak karşılayan Herkesşurada, günlük giyim alternatiflerinden
             abiyelere, spor giyimden ofis kıyafetlerine kadar farklı ihtiyaçlar
             için çeşit vadediyor. Türkiye'nin ve dünyanın sevilen giyim
             markaları en yeni ürünleriyle sezon modasını gardırobunuza taşıyor.
             Kışlık kadın kaban seçeneklerinden kazaklara, kadın çizme
             tasarımlarından topuklu ayakkabı modellerine, tesettür giyim
             ürünlerinden abiye elbise tasarımlarına kadar aradığınız her şeyi
-            Hepsimoda'da bulabilirsiniz. Hepsiburada'nın her bütçeye, her zevke
+            Hepsimoda'da bulabilirsiniz. Herkesşurada'nın her bütçeye, her zevke
             uygun giyim ürünleri arasından hem kendi ihtiyaçlarınızı
             karşılayabilir hem de sevdiklerinize hediye alabilirsiniz. Kadın
             ayakkabı ve erkek spor ayakkabı modellerinde zengin ürün yelpazesi
-            sunan Hepsiburada, çocukların ihtiyaçları için de doğru adres.
+            sunan Herkesşurada, çocukların ihtiyaçları için de doğru adres.
           </p>
           <h3 className="text-lg font-bold mt-4 text-black">
             Evinizi ve İş Yerinizi Baştan Yaratın
           </h3>
           <p className="font-medium">
             Eviniz ve ofisiniz için ihtiyaç duyduğunuz her şeyi bir arada
-            bulabileceğiniz Hepsiburada aracılığıyla ev dekorasyon ve ofis
+            bulabileceğiniz Herkesşurada aracılığıyla ev dekorasyon ve ofis
             dekorasyon ürünlerinden ev tekstili tasarımlarına, kırtasiye
             malzemelerinden okul alışverişi için gerekli olan defter ve
             kalemlere kadar her şeyi sipariş verebilirsiniz.Ofis kırtasiye
             gereçlerini hem kendiniz hem de çocuklarınız ve sevdikleriniz için
             alabilirsiniz. Evinizi baştan yaratacak mobilyalardan çocuklarınıza
-            resim yapmayı sevdirecek renkli kalemlere kadar her şeyiHepsiburada
+            resim yapmayı sevdirecek renkli kalemlere kadar her şeyiHerkesşurada
             avantajlarıyla bulabilirsiniz.
           </p>
         </p>

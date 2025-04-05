@@ -5,10 +5,10 @@ import Top from "./top";
 
 const Header = ({ onCategoryChange, onSearchChange }) => {
   return (
-    <div className="">
-      <div className="flex flex-col w-full ">
+    <div className="w-full">
+      <div className="flex flex-col w-full">
         <Banner />
-        <div className="m-[0px_170px]">
+        <div className="m-[0px_20px] md:m-[0px_170px]">
           <Top />
           <Main
             onCategoryChange={onCategoryChange}

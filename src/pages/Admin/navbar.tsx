@@ -28,6 +28,12 @@ const Navbar = () => {
               <span>Satıcılar</span>
             </li>
           </Link>
+          <Link to="/admin/mağazalar" className="p-2">
+            <li className="flex items-center space-x-2 hover:bg-blue-800 p-2 rounded cursor-pointer">
+              <FaUser />
+              <span>Mağazalar</span>
+            </li>
+          </Link>
 
           <Link to="/admin/ürünler" className="p-2">
             <li className="flex items-center space-x-2 hover:bg-blue-800 p-2 rounded cursor-pointer">

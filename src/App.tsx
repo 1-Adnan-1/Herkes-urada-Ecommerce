@@ -24,6 +24,7 @@ import MüşteriFavoriler from "./pages/müşteri/MüşteriFavoriler";
 import MüşteriMesajlar from "./pages/müşteri/MüşteriMesajlar";
 import MüşteriMağazalar from "./pages/müşteri/MüşteriMağazalar";
 import MüşteriSiparişler from "./pages/müşteri/MüşteriSiparişler";
+import Mağazalar from "./pages/Admin/mağazalar";
 
 const App = () => {
   return (
@@ -51,6 +52,7 @@ const App = () => {
           <Route path="/admin" element={<Admin />} />
           <Route path="/admin/musteriler" element={<Müşteriler />} />
           <Route path="/admin/satıcılar" element={<Satıcılar />} />
+          <Route path="/admin/mağazalar" element={<Mağazalar />} />
           <Route path="/admin/ürünler" element={<Ürünler />} />
         </Route>
 

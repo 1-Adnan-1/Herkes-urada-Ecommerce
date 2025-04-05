@@ -18,3 +18,10 @@ body {
   font-weight: bold;
   color: #ff6800;
 }
+
+/* Responsive Tasarım */
+@media (max-width: 768px) {
+  .hidden-md {
+    display: none !important;
+  }
+}
